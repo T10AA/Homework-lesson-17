@@ -1,6 +1,17 @@
+.mainBlock {
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    text-align: center;
+    line-height: 1.5;
+    margin-top: 60px;
+}
 .N1 {
-    background-color: blueviolet;
+    background-color: rgb(227, 219, 234);
+    width: 45%;
 }
 .N2 {
     background-color: bisque;
+    width: 45%;
+    
 }
